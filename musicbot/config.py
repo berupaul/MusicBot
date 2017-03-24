@@ -167,9 +167,9 @@ class Config:
 
 
 class ConfigDefaults:
-    email = None    #
-    password = None # This is not where you put your login info, go away.
-    token = None    #
+    ;email = None    #
+    ;password = None # This is not where you put your login info, go away.
+    token = Mjk0NzYwNDQ2NTAwNTM2MzIw.C7Z0nw.LSQWCv-w1IwPZ_C4UL1zsx7KzSE    #
 
     owner_id = None
     command_prefix = '!'
